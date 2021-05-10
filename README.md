@@ -5,5 +5,7 @@ This repository is for the paper "Exposing Semantic Segmentation Failures via Ma
 
 I will update this repository as soon as possible.
 
+Paper link: [**Arxiv**] (https://arxiv.org/abs/2103.00259)
+
 ## Database
 The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy") can be downloaded at the [**Baidu Yu**](https://pan.baidu.com/s/1adhYML0695eUSwdX5vSCDQ) (Code: d7gs).

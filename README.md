@@ -22,8 +22,9 @@ The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy")
 @article{yan2021exposing,
 title={Exposing semantic segmentation failures via maximum discrepancy competition},
 author={Yan, Jiebin and Zhong, Yu and Fang, Yuming and Wang, Zhangyang and Ma, Kede},
-booktitle={International Journal of Computer Vision},
-pages={***},
+journal={International Journal of Computer Vision},
+volume={129},
+pages={1768–1786},
 year={2021}
 }
 

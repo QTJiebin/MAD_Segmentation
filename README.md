@@ -14,3 +14,6 @@ The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy")
 
 The code is coming soon.
 
+## Thanks
+Chengyang Le(https://leshier.github.io), Yu Zhong, and all participants in the subjective experiment.
+

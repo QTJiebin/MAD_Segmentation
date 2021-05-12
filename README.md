@@ -11,8 +11,8 @@ The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy")
 ## Reference
 
 - Z. Wang and E. P. Simoncelli. Maximum differentiation (MAD) competition: A methodology for comparing computational models for perceptual quantities. *Journal of Vision*, 8(12): 8–8, 2008.
-- V. Hosu, H. Lin, T. Sziranyi, and D. Saupe. KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment. *IEEE Transactions on Image Processing*, 29: 4041-4056, Jan. 2020.
-- K. He, X. Zhang, S. Ren, and J. Sun. Deep residual learning for image recognition. In *IEEE Conference on Computer vison and Pattern Recognition*, pages 770–778, 2016.
+- K. Ma, Z. Duanmu, Z. Wang, Q. Wu, W. Liu, H. Yong, H. Li, and L. Zhang. Group maximum differentiation competition: Model comparison with few samples. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 42(4): 851-864, 2020.
+- H. Wang, T. Chen, Z. Wang, and K. Ma. I am going MAD: Maximum discrepancy competition for comparing classifiers adaptively. In *International Conference on Learning Representations*, 2020.
 
 ## Thanks
 [Chenyang Le](https://leshier.github.io), [Yu Zhong](https://github.com/zhy1887996acm), and all participants in the subjective experiment.

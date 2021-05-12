@@ -15,7 +15,7 @@ The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy")
 - K. He, X. Zhang, S. Ren, and J. Sun. Deep residual learning for image recognition. In *IEEE Conference on Computer vison and Pattern Recognition*, pages 770–778, 2016.
 
 ## Thanks
-[Chenyang Le](https://leshier.github.io), Yu Zhong, and all participants in the subjective experiment.
+[Chenyang Le](https://leshier.github.io), [Yu Zhong](https://github.com/zhy1887996acm), and all participants in the subjective experiment.
 
 ## Citation
 ```bibtex

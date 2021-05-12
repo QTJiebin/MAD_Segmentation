@@ -19,12 +19,12 @@ The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy")
 
 ## Citation
 ```bibtex
-@inproceedings{fang2020cvpr,
-title={Perceptual Quality Assessment of Smartphone Photography},
-author={Fang, Yuming and Zhu, Hanwei and Zeng, Yan and Ma, Kede and Wang, Zhou},
-booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
-pages={3677-3686},
-year={2020}
+@article{yan2021exposing,
+title={Exposing semantic segmentation failures via maximum discrepancy competition},
+author={Yan, Jiebin and Zhong, Yu and Fang, Yuming and Wang, Zhangyang and Ma, Kede},
+booktitle={International Journal of Computer Vision},
+pages={***},
+year={2021}
 }
 
 

@@ -7,6 +7,7 @@ This repository is for the paper "Exposing Semantic Segmentation Failures via Ma
 The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy") can be downloaded at the [**Baidu Yun**](https://pan.baidu.com/s/1adhYML0695eUSwdX5vSCDQ) (Code: d7gs) or [**MEGA**](https://mega.nz/folder/a9QjHawJ) (Code: lbf8f-ano8EcZZ4EDGfsfQ).
 
 ## Usage
+coming soon.
 
 ## Test Semantic Segmentation Models
 

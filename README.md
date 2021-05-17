@@ -8,6 +8,21 @@ The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy")
 
 ## Usage
 
+## Test Semantic Segmentation Models
+
+- L. Chen, Y. Zhu, G. Papandreou, F. Schroff, and H. Adam. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation. In *European Conference
+on Computer Vision*, 801-818, 2018.
+- X. Li, Z. Zhong, J. Wu, Y. Yong, Z. Lin, and H. Liu. Expectation-maximization attention networks for semantic segmentation. In *IEEE International Conference on Computer Vision*, 9167-9176, 2019.
+- H. Zhao, Y. Zhang, S. Liu, J. Shi, C. C. Loy, D. Lin, and J. Jia. PSANet: Point-wise spatial attention network for scene parsing. In *European Conference
+on Computer Vision*, 267-283, 2018.
+- H. Zhao, J. Shi, X. Qi, X. Wang, and J. Jia. Pyramid scene parsing network. In *IEEE International Conference on Computer Vision and Pattern Recognition*, 2881-2890, 2017.
+- V. Nekrasov, C. Shen, and I. Reid. Light-weight RefineNet for real-time semantic segmentation. In *British Machine Vision Conference*, 2018.
+- G. Lin, A. Milan, C. Shen, and I. Reid. RefineNet: Multi-path refinement networks for high-resolution semantic segmentation. In *IEEE International Conference on Computer Vision and Pattern Recognition*, 1925-1934, 2017.
+- N. Dvornik, K. Shmelkov, J. Mairal, and C. Schmid. BlitzNet: A real-time deep network for scene understanding. In *IEEE International Conference on Computer Vision and Pattern Recognition*, 4154-4162, 2017.
+- S. Mehta, M. Rastegari, L. Shapiro, and H. Hajishirzi. ESPNetv2: A ligh-weight, power efficient, and general purpose convolutional neural network. In *IEEE International Conference on Computer Vision and Pattern Recognition*, 9190-9200, 2019.
+- S. Mehta, H. Hajishirzi, and M. Rastegari. DiCENet: Dimension-wise convolutions for efficient networks. In *IEEE International Conference on Computer Vision and Pattern Recognition*, 2019.
+- J. Long, E. Shelhamer, and T. Darrell. Fully convolutional networks for semantic segmentation. In *IEEE International Conference on Computer Vision and Pattern Recognition*, 2015.
+
 ## Reference
 
 - Z. Wang and E. P. Simoncelli. Maximum differentiation (MAD) competition: A methodology for comparing computational models for perceptual quantities. *Journal of Vision*, 8(12): 8–8, 2008.

@@ -22,7 +22,6 @@ python downloader/PengDownloader.py
 python downloader/rename_each_class.py
 
 # To compare the results of each model and select MAD samples:
-# You can change this code the according to your experimental setting. 
 python select_MAD_samples.py
 
 # To convert a "***.npy" label to a visualization image:

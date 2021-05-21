@@ -7,7 +7,26 @@ This repository is for the paper "Exposing Semantic Segmentation Failures via Ma
 The Semantic Segmentation Challenge (SS-C) database and the annotations (".npy") can be downloaded at the [**Baidu Yun**](https://pan.baidu.com/s/1adhYML0695eUSwdX5vSCDQ) (Code: d7gs) or [**MEGA**](https://mega.nz/folder/a9QjHawJ) (Code: lbf8f-ano8EcZZ4EDGfsfQ).
 
 ## Usage
-coming soon.
+
+```shell script
+# To create urls database, then:
+# Fill your api.unsplash ACCESS_KEY in `./downloader/FullSite.py` first。
+python downloader/manage.py
+
+# To download images from crawled urls:
+# For convenience, we provide the urls obtained in our work, 
+# see `./downloader/database/link.db`.
+python downloader/PengDownloader.py
+
+# To rename and resize the images:
+python downloader/rename_each_class.py
+
+# To compare the results of each model and select MAD samples:
+python select_MAD_samples.py
+
+# To convert a "***.npy" label to a visualization image:
+python cvat2voc.py ***.npy
+```
 
 ## Test Semantic Segmentation Models
 

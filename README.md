@@ -29,7 +29,7 @@ python cvat2voc.py ***.npy
 ```
 The data downloader reference: [UnsplashDownloader](https://github.com/hating/UnsplashDownloader) by [hating](https://github.com/hating).
 
-&emsp;　![](./image_samples/aeroplane.jpg =50x50) &emsp;　&emsp;　&emsp;　![](./image_samples/DeepLab_aeroplane.png) &emsp;　&emsp;　&emsp;　![](./image_samples/EMANet_aeroplane.png)　&emsp;　&emsp <br>
+&emsp;　![](./image_samples/aeroplane.jpg =50x) &emsp;　&emsp;　&emsp;　![](./image_samples/DeepLab_aeroplane.png) &emsp;　&emsp;　&emsp;　![](./image_samples/EMANet_aeroplane.png)　&emsp;　&emsp <br>
 
 ## Test Semantic Segmentation Models
 

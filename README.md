@@ -29,7 +29,7 @@ python cvat2voc.py ***.npy
 ```
 The data downloader reference: [UnsplashDownloader](https://github.com/hating/UnsplashDownloader) by [hating](https://github.com/hating).
 
-<img scr="https://github.com/QTJiebin/MAD_Segmentation/tree/main/image_samples/aeroplane.jpg" width="50" height="50" alt="original image" />
+<img scr="./image_samples/aeroplane.jpg" width="50" height="50" alt="original image" />
 
 &emsp;　![](./image_samples/aeroplane.jpg) &emsp;　&emsp;　&emsp;　![](./image_samples/DeepLab_aeroplane.png) &emsp;　&emsp;　&emsp;　![](./image_samples/EMANet_aeroplane.png)　&emsp;　&emsp <br>
 

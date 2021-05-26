@@ -29,6 +29,8 @@ python cvat2voc.py ***.npy
 ```
 The data downloader reference: [UnsplashDownloader](https://github.com/hating/UnsplashDownloader) by [hating](https://github.com/hating).
 
+<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/DeepLab_aeroplane.png" width="224" />
+
 ## Test Semantic Segmentation Models
 
 - L. Chen, Y. Zhu, G. Papandreou, F. Schroff, and H. Adam. Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation. In *European Conference

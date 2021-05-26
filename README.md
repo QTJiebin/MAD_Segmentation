@@ -30,6 +30,8 @@ python cvat2voc.py ***.npy
 The data downloader reference: [UnsplashDownloader](https://github.com/hating/UnsplashDownloader) by [hating](https://github.com/hating).
 
 <img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/DeepLab_aeroplane.png" width="224" /> &emsp;　&emsp;　&emsp;<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/aeroplane.jpg" width="224" /> &emsp;　&emsp;　&emsp;<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/EMANet_aeroplane.png" width="224" />
+```shell script 
+# If you want to reproduce the above visual samples, pls find the function "" in file "".
 
 ## Test Semantic Segmentation Models
 

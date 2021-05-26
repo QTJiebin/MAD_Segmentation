@@ -29,7 +29,7 @@ python cvat2voc.py ***.npy
 ```
 The data downloader reference: [UnsplashDownloader](https://github.com/hating/UnsplashDownloader) by [hating](https://github.com/hating).
 
-<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/DeepLab_aeroplane.png" width="224" /> &emsp;　&emsp;　&emsp;<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/DeepLab_aeroplane.png" width="224" /> &emsp;　&emsp;　&emsp;<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/DeepLab_aeroplane.png" width="224" />
+<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/DeepLab_aeroplane.png" width="224" /> &emsp;　&emsp;　&emsp;<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/aeroplane.png" width="224" /> &emsp;　&emsp;　&emsp;<img src="https://github.com/QTJiebin/MAD_Segmentation/blob/main/image_samples/EMANet_aeroplane.png" width="224" />
 
 ## Test Semantic Segmentation Models
 

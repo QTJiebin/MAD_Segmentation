@@ -56,7 +56,7 @@ on Computer Vision*, 267-283, 2018.
 - H. Wang, T. Chen, Z. Wang, and K. Ma. I am going MAD: Maximum discrepancy competition for comparing classifiers adaptively. In *International Conference on Learning Representations*, 2020.
 
 ## Thanks
-[Chenyang Le](https://leshier.github.io), [Yu Zhong](https://github.com/zhy1887996acm), and all participants in the subjective experiment.
+[Chenyang Le](https://leshier.github.io), and all participants in the subjective experiment.
 
 ## Citation
 ```bibtex

@@ -65,6 +65,7 @@ title={Exposing semantic segmentation failures via maximum discrepancy competiti
 author={Yan, Jiebin and Zhong, Yu and Fang, Yuming and Wang, Zhangyang and Ma, Kede},
 journal={International Journal of Computer Vision},
 volume={129},
+number={5},
 pages={1768–1786},
 year={2021}
 }
